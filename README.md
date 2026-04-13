@@ -8,9 +8,32 @@ my main objective is to be the kind of developer who has a direct connection wit
 
 ---
 
-### tools i use
+### what i'm working on
 
-`Unity` `C#` `HLSL` `Roblox / Luau` `Blender` `Godot` `Unreal` `Zbrush`
+- 🌿 **Projeto Liririandi** — isometric 3D pixel art game in Unity 6 URP
+- 🎮 **FPS Gameplay Systems** — modular first-person framework (climbing, grab, trauma health)
+
+---
+
+### 🛠️ tools i use
+
+<img align="left" alt="Unity" title="Unity" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Blender" title="Blender" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Lua" title="Lua / Luau" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+<img align="left" alt="Godot" title="Godot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+<img align="left" alt="Unreal" title="Unreal Engine" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 📫 find me
+
+- **Email:** arthurmarques.se@gmail.com
+- **itch.io:** [bababuyyy](https://bababuyyy.itch.io)
 
 ---
 
