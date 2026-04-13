@@ -1,16 +1,17 @@
-## Hi there 👋
+# hey, i'm Bababuyyy 👾
 
-<!--
-**bababuyyy/bababuyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+making games is the only thing i know how to do — and i love every second of it.
 
-Here are some ideas to get you started:
+i'm a solo indie dev based in Aracaju, Brazil. i build whatever the game needs — shaders, gameplay systems, tools, art pipelines. no specialization, just whatever it takes to make the thing work and feel right.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my main objective is to be the kind of developer who has a direct connection with the people who play their games. like ConcernedApe shipping Stardew Valley out of pure love, or the folks at Black Tabby Games making something deeply personal and finding their people because of it. that kind of work is what i'm chasing.
+
+---
+
+### tools i use
+
+`Unity` `C#` `HLSL` `Roblox / Luau` `Blender` `Godot` `Unreal` `Zbrush`
+
+---
+
+> *"making games is the only thing i know how to do — and i love every second of it."*
