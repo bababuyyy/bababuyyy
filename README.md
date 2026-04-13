@@ -34,6 +34,8 @@ my main objective is to be the kind of developer who has a direct connection wit
 
 - **Email:** arthurmarques.se@gmail.com
 - **itch.io:** [bababuyyy](https://bababuyyy.itch.io)
+- **Discord:** bababuyyy2_32019
+- **Roblox:** [@BababuyyySE](https://www.roblox.com/users/search?keyword=BababuyyySE)
 
 ---
 
