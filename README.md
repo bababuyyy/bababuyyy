@@ -1,4 +1,6 @@
-# hey, i'm Bababuyyy 👾
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FFE600&background=0A0A0A00&center=true&vCenter=true&width=435&lines=hey%2C+i'm+Bababuyyy+%F0%9F%91%BE;solo+indie+dev+%7C+Aracaju%2C+Brazil;making+games+is+all+i+do" alt="Typing SVG" /></a>
+</div>
 
 making games is the only thing i know how to do — and i love every second of it.
 
@@ -15,6 +17,10 @@ my main objective is to be the kind of developer who has a direct connection wit
 
 ---
 
+<img align="center" alt="" src="./src/top-info.png">
+
+<img align="right" alt="Bababuyyy" style="height:190px;" src="./src/BP.gif">
+
 ### 🛠️ tools i use
 
 <img align="left" alt="Unity" title="Unity" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
@@ -28,15 +34,13 @@ my main objective is to be the kind of developer who has a direct connection wit
 <br/>
 <br/>
 
----
-
 ### 📫 find me
 
-- **Email:** arthurmarques.se@gmail.com
-- **itch.io:** [bababuyyy](https://bababuyyy.itch.io)
-- **Discord:** bababuyyy2_32019
-- **Roblox:** [@BababuyyySE](https://www.roblox.com/users/search?keyword=BababuyyySE)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FFE600&color=0a0a0a)](mailto:arthurmarques.se@gmail.com)
+[![itch.io](https://img.shields.io/badge/-itch.io-000?style=for-the-badge&logo=itch.io&logoColor=FF2D55&color=0a0a0a)](https://bababuyyy.itch.io)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=00F5FF&color=0a0a0a)](https://discord.com/users/bababuyyy2_32019)
+[![Roblox](https://img.shields.io/badge/-Roblox-000?style=for-the-badge&logo=roblox&logoColor=FFE600&color=0a0a0a)](https://www.roblox.com/users/search?keyword=BababuyyySE)
 
----
+<img align="center" alt="" src="./src/low.png">
 
 > *"making games is the only thing i know how to do — and i love every second of it."*
