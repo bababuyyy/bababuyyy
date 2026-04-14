@@ -40,6 +40,7 @@ my main objective is to be the kind of developer who has a direct connection wit
 [![itch.io](https://img.shields.io/badge/-itch.io-000?style=for-the-badge&logo=itch.io&logoColor=FF2D55&color=0a0a0a)](https://bababuyyy.itch.io)
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=00F5FF&color=0a0a0a)](https://discord.com/users/bababuyyy2_32019)
 [![Roblox](https://img.shields.io/badge/-Roblox-000?style=for-the-badge&logo=roblox&logoColor=FFE600&color=0a0a0a)](https://www.roblox.com/users/search?keyword=BababuyyySE)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-000?style=for-the-badge&logo=fiverr&logoColor=00F5FF&color=0a0a0a)](https://www.fiverr.com/bababuyyy)
 
 <img align="center" alt="" src="./src/low.png">
 
